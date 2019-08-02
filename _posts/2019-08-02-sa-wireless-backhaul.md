@@ -1,3 +1,9 @@
+---
+layout: default
+title: SIMPLE WλVE
+description: An inexpensive last mile communication technology
+---
+
 # Simple Wave's South American Wireless Backhaul 
 
 On 24th June 2019  [Telxius in partnership with América Móvil](https://telxius.com/en/news-america-movil/) announced 7,300 km, 108 Tbps cable to connect Puerto San José (Guatemala) with Valparaíso (Chile) with additional landing points in Salinas (Ecuador), Lurín (Peru) and Arica (Chile). 
