@@ -10,7 +10,7 @@ On 24th June 2019  [Telxius in partnership with América Móvil](https://telxius
 
 The transcontinental cable covers a total of 5 countries in North and South America and is expected to be functional in 2020.    
 
-![](./telxius-cable-map.png)
+![](/simple-wave/telxius-cable-map.png)
 
 The 5 landing points of the cable are all coastal tourist hot spots. This presents an opportunity for wireless internet service providers to strengthen their network and offer customized services to the tourists on top of regular data pack.  Simple Wave's customizable wireless technology can help effective monetization of the network, by both mobile network operators as well as service providers looking to attract new customers. 
  
