@@ -40,5 +40,15 @@
         <small class="site-footer-credits">small business computing.</small>
       </footer>
     </main>
+    <div>
+      <p>Read More</p>
+     <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+    </div>
   </body>
 </html>
