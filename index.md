@@ -1,3 +1,4 @@
+![](./0.png)
 
 # SIMPLE WλVE
 
